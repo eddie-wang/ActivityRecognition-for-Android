@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="按下开始后请将手机放入裤带 做完动作之后 按下结束按钮" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="110dp" >
+
+        <Button
+            android:id="@+id/startButton"
+            android:layout_width="145dp"
+            android:layout_height="72dp"
+            android:layout_weight="0.02"
+            android:text="开始" />
+
+        <Button
+            android:id="@+id/finishButton"
+            android:layout_width="wrap_content"
+            android:layout_height="74dp"
+            android:layout_weight="0.09"
+            android:text="结束" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:text="TextView" />
+
+</LinearLayout>
