@@ -1,3 +1,9 @@
 1.To run this application in your phone,you can install by apk file which is located in the bin/***.apk
+   
+   
+   click 开始 button ，then put cellphone in your pocket of trousers（notice： you must let the back of the cell attach your leg）
+   ,then waiting for 10seconds(you just do the activity you want to recognize), after than you click the 结束 button, the result 
+   should show on the screen. If you encounter any problem just email me(786830875@qq.com)
 
-2.To view the source code, you can using eclipse by adding the whole file. 
+
+2.To view the source code, you should use eclipse by adding the whole file to your porject. 
